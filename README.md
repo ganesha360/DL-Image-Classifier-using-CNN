@@ -278,7 +278,8 @@ test_data[333][1]
 
 
 ## Classification Report
-<img width="578" alt="Screenshot 2025-04-19 at 11 07 23 AM" src="https://github.com/user-attachments/assets/f00ee6bc-5488-444a-a992-d8dbced03072" />
+![image](https://github.com/user-attachments/assets/636daf58-f449-4881-882e-9c6a7354b568)
+
 
 
 ### New Sample Data Prediction
